@@ -1,0 +1,3 @@
+Features Trans;ethernet;network;ethernet network;interface;ethernet interface
+100base-t ethernet network;1;1;1;0;0
+100base-t ethernet interface;1;0;0;1;1

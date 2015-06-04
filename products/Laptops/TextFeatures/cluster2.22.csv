@@ -1,0 +1,4 @@
+Features Trans;display;touch;screen;touch screen
+wled-backlit high-definition touch-screen display;1;0;0;0
+wled-backlit high-definition capacitive touch screen;0;1;1;1
+led-backlit high-definition capacitive touch-screen display;1;0;0;0

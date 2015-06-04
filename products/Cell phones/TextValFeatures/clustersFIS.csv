@@ -1,0 +1,3 @@
+"";"clusters";"items"
+"1";"list(""dual-core 1.5 ghz processor"", ""dual-core 1.7 ghz processor"")";"list(""{dual.core,ghz,processor,ghz.processor}"")"
+"2";"list(""android 4.0 ice cream sandwich operating system"", ""android 4.1 jelly bean operating system"", ""android 5.1 lollipop operating system"", ""android 4.2.2 jelly bean operating system"", ""android 4.4 kitkat operating system"")";"list(""{android,operating,system}"")"

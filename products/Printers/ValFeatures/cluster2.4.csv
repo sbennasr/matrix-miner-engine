@@ -1,0 +1,4 @@
+Features Trans;print;speed;iso;ppm;print speed;iso ppm;document;print document
+print speeds up to 25 iso ppm;1;1;1;1;1;1;0;0
+prints documents up to 26 iso ppm;1;0;1;1;0;1;1;1
+print speeds up to 19 iso ppm;1;1;1;1;1;1;0;0

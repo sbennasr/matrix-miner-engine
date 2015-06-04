@@ -1,0 +1,4 @@
+Features Trans;print;resolution;print resolution;dpus;dpus resolution;fax;fax resolution
+print resolution;1;1;1;0;0;0;0
+dpus resolution;0;1;0;1;1;0;0
+fax resolution;0;1;0;0;0;1;1

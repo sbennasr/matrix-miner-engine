@@ -1,0 +1,7 @@
+Features Trans;document;print;print document;fax;fax document
+large document;1;0;0;0;0
+legal document;1;0;0;0;0
+print document;1;1;1;0;0
+scan document;1;0;0;0;0
+small document;1;0;0;0;0
+fax document;1;0;0;1;1
