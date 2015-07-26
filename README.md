@@ -23,4 +23,4 @@ Matrix miner engine requires models from standford NLP software that are availab
 
 The specific file is named stanford-corenlp-models-2011-04-11.jar and should be placed in the lib directory of the project.
 
-The directory matrixminer/test/MatrixMinerTest.java contains an example that shows how to use the project.
+The directory *matrixminer/test/MatrixMinerTest.java* contains an example that shows how to use the project.
