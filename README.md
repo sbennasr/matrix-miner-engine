@@ -12,6 +12,8 @@ Matrix miner engine automatically synthesize product comparison matrices (PCMs) 
 
 ## Install
 
+Download [eclipse] (https://eclipse.org/downloads/)
+
 ```
 git clone https://github.com/sbennasr/matrix-miner-engine
 ```
