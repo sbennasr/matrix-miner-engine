@@ -1,6 +1,6 @@
 # matrix-miner-engine
 
-Matrix miner engine automatically synthesize product comparison matrices (PCMs) from a set of product descriptions written in natural language. Matrix miner engine is capable of identifying and organizing features and values in a PCM – despite the informality and absence of structure in the textual descriptions of products.
+Matrix miner engine automatically synthesizes product comparison matrices (PCMs) from a set of product descriptions written in natural language. Matrix miner engine is capable of identifying and organizing features and values in a PCM – despite the informality and absence of structure in the textual descriptions of products.
 
 ## Development Tools:
 
