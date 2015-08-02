@@ -6,7 +6,7 @@ Matrix miner engine automatically synthesizes product comparison matrices (PCMs)
 
 * Stanford CoreNLP: integrates many NLP tools, including the PartOf-Speech (POS) tagger that reads text in some language and assigns parts of speech to each word (and other token), such as noun, verb, adjective, etc. 
 * Lucene: is a widely used Information Retrieval (IR) library to tokenize and remove stop words from text
-* Simmetrics library : to compute Levenshtein syntactical similarity measures.
+* Simmetrics library : to compute Levenshtein syntactical similarity measure.
 
 ## Getting started :
 
